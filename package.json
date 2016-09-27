@@ -1,0 +1,27 @@
+{
+  "name": "docker-registry-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "docker",
+    "registry",
+    "api"
+  ],
+  "author": "Damir Makhmutov <iam@damir.space>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "request": "^2.73.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "mocha": "^2.5.3"
+  }
+}
