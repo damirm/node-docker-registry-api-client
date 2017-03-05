@@ -1,6 +1,6 @@
 {
   "name": "docker-registry-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Docker registry api v2 client",
   "main": "index.js",
   "homepage": "https://github.com/damirm/node-docker-registry-api-client",
